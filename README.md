@@ -17,7 +17,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo para quem e para quem não 
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre o que é programar e porque vamos aprender logo o python entre tantas outras linguagens de programação
 
-### [O Melhor Curso de Python (Aula 3) - Instalações e quais IDEs usar]
+### [O Melhor Curso de Python (Aula 3) - Instalações e quais IDEs usar]()
 
 Links
 
@@ -25,7 +25,7 @@ Links
 
 [Anaconda - Eu recomendo baixar esse](https://www.anaconda.com/distribution/)
 
-[Notepad ++] (https://notepad-plus-plus.org/)
+[Notepad++] (https://notepad-plus-plus.org/)
 
 [PyCharm - Tenho alguns vídeos usando pycharm](https://www.jetbrains.com/pycharm/)
 
