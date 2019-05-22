@@ -37,11 +37,11 @@ Nesta vídeo aula d'O Melhor Curso de Python eu mostro como instalar o Python e 
 
 [Netbeans](https://netbeans.org/)
 
-### [O Melhor Curso de Python (Aula 4) - Executando o primeiro código no CMD e no Jupyter 22/05/2019 20:00](https://youtu.be/bVLNl-b63-Q)
+### [O Melhor Curso de Python (Aula 4) - Executando o primeiro código no CMD e no Jupyter - 22/05/2019 20:00](https://youtu.be/bVLNl-b63-Q)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como você pode executar seus futuros códigos: ou pelo CMD ou pelo Jupyter (que é o que eu usarei nos próximos vídeos)
 
-### [O Melhor Curso de Python (Aula 5) - Números, Textos e Operações Matemáticas](https://youtu.be/owX2fg4JzAg)
+### [O Melhor Curso de Python (Aula 5) - Números, Textos e Operações Matemáticas - 23/05/2019 20:00](https://youtu.be/owX2fg4JzAg)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu apresento o básico dos números, textos e operações matemáticas. Nada de muita firula.
 
