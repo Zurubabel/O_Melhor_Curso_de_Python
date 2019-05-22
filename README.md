@@ -25,7 +25,7 @@ Links
 
 [Anaconda - Eu recomendo baixar esse](https://www.anaconda.com/distribution/)
 
-[Notepad++] (https://notepad-plus-plus.org/)
+[Notepad++](https://notepad-plus-plus.org/)
 
 [PyCharm - Tenho alguns vídeos usando pycharm](https://www.jetbrains.com/pycharm/)
 
