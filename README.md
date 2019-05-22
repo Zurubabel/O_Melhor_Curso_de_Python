@@ -21,7 +21,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre o que é programar e 
 
 Nesta vídeo aula d'O Melhor Curso de Python eu mostro como instalar o Python e sobre algumas IDEs. Como eu disse: não usem IDEs TOPs no começo. Tenham memória motora dos comandos
 
-## Links
+#### Links
 
 [Python](https://www.python.org/)
 
@@ -44,6 +44,14 @@ Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como você pode execut
 ### [O Melhor Curso de Python (Aula 5) - Números, Textos e Operações Matemáticas - 23/05/2019 20:00](https://youtu.be/owX2fg4JzAg)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu apresento o básico dos números, textos e operações matemáticas. Nada de muita firula.
+
+### [O Melhor Curso de Python (Aula 6) - Valores e Variáveis - 24/05/2019 20:00](https://youtu.be/8fZX9zODKIM)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico um pouco sobre valores e variáveis e dou uma dica e algo que vocês têm que levar pela sua vida "pythonística": em python tudo é um objeto
+
+### [O Melhor Curso de Python (Aula 7) - Como o Python gerencia os valores e variáveis - 25/05/2019 20:00](https://youtu.be/N2o6lVXYP8Q)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como o Python gerencia os valores das variáveis.
 
 
 
