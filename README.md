@@ -36,3 +36,8 @@ Nesta vídeo aula d'O Melhor Curso de Python eu mostro como instalar o Python e 
 [Brackets](http://brackets.io/)
 
 [Netbeans](https://netbeans.org/)
+
+### [O Melhor Curso de Python (Aula 4) - Executando o primeiro código no CMD e no Jupyter](https://youtu.be/bVLNl-b63-Q)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como você pode executar seus futuros códigos: ou pelo CMD ou pelo Jupyter (que é o que eu usarei nos próximos vídeos)
+
