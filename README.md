@@ -53,5 +53,14 @@ Nesta vídeo aula d'O Melhor Curso de Python eu explico um pouco sobre valores e
 
 Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como o Python gerencia os valores das variáveis.
 
+### [O Melhor Curso de Python (Aula 8) - Valores Mutáveis e Imutáveis - 26/05/2019 20:00](https://youtu.be/2kZjwgYPWCM)
 
+Neste vídeo d'O Melhor Curso de Python eu falo sobre valores mutáveis e imutáveis. Sim, eu deveria usar a palavra "objetos", mas como ainda não entramos no tema, foquei no endereçamento e valores.
 
+### [O Melhor Curso de Python (Aula 9) - Sequências Imutáveis - Strings - 27/05/2019 20:00](https://youtu.be/_UKHvKMzR_g)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu ensino algumas coisas: 
+
+* Strings, que são uma sequência imutável de caracteres 
+* Algumas funções de Strings 
+* Ensino sobre a documentação. Como eu disse: quero dar autonomia para vocês, então vocês também têm que se virar.
