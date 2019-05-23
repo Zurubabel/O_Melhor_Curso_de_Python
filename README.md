@@ -64,3 +64,13 @@ Nesta vídeo aula d'O Melhor Curso de Python eu ensino algumas coisas:
 * Strings, que são sequências imutáveis de caracteres 
 * Algumas funções de Strings 
 * Ensino sobre a documentação. Como eu disse: quero dar autonomia para vocês, então vocês também têm que se virar.
+
+### [O Melhor Curso de Python (Aula 10) - Sequências Imutáveis - Tuplas - 28/05/2019 20:00](https://youtu.be/w_qG9TWSy9Y)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre tuplas, alguns usos desse bendito e crio uma função (só de zueira).
+
+Eu falei que esse era o vídeo 1500. Errei. Esse é o 1499. Hahahaha
+
+Muintu aminau eu.
+
+
