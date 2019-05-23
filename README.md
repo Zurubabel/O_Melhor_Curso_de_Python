@@ -61,6 +61,6 @@ Neste vídeo d'O Melhor Curso de Python eu falo sobre valores mutáveis e imutá
 
 Nesta vídeo aula d'O Melhor Curso de Python eu ensino algumas coisas: 
 
-* Strings, que são uma sequência imutável de caracteres 
+* Strings, que são sequências imutáveis de caracteres 
 * Algumas funções de Strings 
 * Ensino sobre a documentação. Como eu disse: quero dar autonomia para vocês, então vocês também têm que se virar.
