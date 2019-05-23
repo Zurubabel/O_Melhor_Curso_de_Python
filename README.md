@@ -69,8 +69,6 @@ Nesta vídeo aula d'O Melhor Curso de Python eu ensino algumas coisas:
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre tuplas, alguns usos desse bendito e crio uma função (só de zueira).
 
-Eu falei que esse era o vídeo 1500. Errei. Esse é o 1499. Hahahaha
-
-Muintu aminau eu.
+REALMENTE! ESTE É O VÍDEO 1500!
 
 
