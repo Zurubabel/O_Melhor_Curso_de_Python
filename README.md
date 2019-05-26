@@ -71,4 +71,6 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre tuplas, alguns usos d
 
 REALMENTE! ESTE É O VÍDEO 1500!
 
+### [O Melhor Curso de Python (Aula 11) - Sequências Mutáveis - Listas - 29/05/2019 20:00](https://youtu.be/KhOGyDQfZUw)
 
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre listas, que nada mais são que sequências mutáveis. Também falo sobre algumas funções de manipulação nas listas.
