@@ -81,7 +81,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre set e frozensets, 
 
 Também falo sobre algumas outras características destes dois tipos de dados.
 
-### [O Melhor Curso de Python (Aula 13) Dicionários - Parte 1](https://youtu.be/lPaYSaK9lco)
+### [O Melhor Curso de Python (Aula 13) Dicionários - Parte 1 - 31/05/2019 20:00](https://youtu.be/lPaYSaK9lco)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu começo falando dos dicionários. Nesta primeira parte eu explico sobre chaves e valores, sobre seleções e sobre as chaves, que nada mais são que objetos imutáveis (como eu havia vindo explicando de vídeos anteriores para cá).
 
