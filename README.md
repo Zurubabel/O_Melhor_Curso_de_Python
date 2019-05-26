@@ -74,3 +74,10 @@ REALMENTE! ESTE É O VÍDEO 1500!
 ### [O Melhor Curso de Python (Aula 11) - Sequências Mutáveis - Listas - 29/05/2019 20:00](https://youtu.be/KhOGyDQfZUw)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre listas, que nada mais são que sequências mutáveis. Também falo sobre algumas funções de manipulação nas listas.
+
+### [O Melhor Curso de Python (Aula 12) - Sets e Frozensets - 30/05/2019 20:00](https://youtu.be/leKBUvgG1BU)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre set e frozensets, que são sequências não ordenadas de valores únicos. Sets são mutáveis e frozensets são imutáveis. 
+
+Também falo sobre algumas outras características destes dois tipos de dados.
+
