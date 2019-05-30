@@ -85,8 +85,12 @@ Também falo sobre algumas outras características destes dois tipos de dados.
 
 Nesta vídeo aula d'O Melhor Curso de Python eu começo falando dos dicionários. Nesta primeira parte eu explico sobre chaves e valores, sobre seleções e sobre as chaves, que nada mais são que objetos imutáveis (como eu havia vindo explicando de vídeos anteriores para cá).
 
-### [O Melhor Curso de Python (Aula 14) - Explicando sobre Estruturas de Decisão](https://www.youtube.com/watch?v=ql6iVsZC-4M)
+### [O Melhor Curso de Python (Aula 14) - Explicando sobre Estruturas de Decisão - 01/06/2019 20:00](https://www.youtube.com/watch?v=ql6iVsZC-4M)
 
 Esta aula d'O Melhor Curso de Python será um pouco diferente. Neste vídeo eu explico um pouco sobre a diferença de complexidade entre programas simples e sistemas e sobre como as estruturas de decisão nos ajudam no processo.
 
 Se preparem, pois este foi o último vídeo fácil da série.
+
+### [O Melhor Curso de Python (Aula 15) - Estruturas de Decisão (If elif else) - 02/06/2019 20:00](https://youtu.be/3490MyMPr0I)
+
+Neste vídeo d'O Melhor Curso de Python eu explico um pouco sobre estruturas de decisão. Falo sobre o if-elif-else e como usar. Pode ser um pouco confuso, mas no próximo vídeo eu já começo a explicar sobre sintaxe do python.
