@@ -94,3 +94,10 @@ Se preparem, pois este foi o último vídeo fácil da série.
 ### [O Melhor Curso de Python (Aula 15) - Estruturas de Decisão (If elif else) - 02/06/2019 20:00](https://youtu.be/3490MyMPr0I)
 
 Neste vídeo d'O Melhor Curso de Python eu explico um pouco sobre estruturas de decisão. Falo sobre o if-elif-else e como usar. Pode ser um pouco confuso, mas no próximo vídeo eu já começo a explicar sobre sintaxe do python.
+
+### [O Melhor Curso de Python (Aula 16) - Funções em Python - Estrutura da função - 03/06/2019 20:00](https://youtu.be/sVHm0n2n51M)
+
+Neste vídeo d'O Melhor Curso de Python eu começo a falar sobre funções. Explico sobre como criar funções e um pouco do escopo delas.
+
+Já que eu iria falar sobre escopos do if e afins, vou explicar o principal, que já fica mais fácil para o futuro. Hahahaha
+
