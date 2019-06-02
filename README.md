@@ -101,3 +101,15 @@ Neste vídeo d'O Melhor Curso de Python eu começo a falar sobre funções. Expl
 
 Já que eu iria falar sobre escopos do if e afins, vou explicar o principal, que já fica mais fácil para o futuro. Hahahaha
 
+### [O Melhor Curso de Python (Aula 17) - Funções em Python - Escopo das variáveis na função - 04/06/2019 20:00](https://youtu.be/HHvU2FUEyfs)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu continuo falando sobre funções em python. Nesta eu explico um pouco sobre escopo das variáveis nas funções.
+
+### [O Melhor Curso de Python (Aula 18) - Geradores de Nomes de Cachaceiro - 05/06/2019 20:00](https://youtu.be/skRmyRwqfWg)
+
+Nesta vídeo aula d'O Melhor Curso de Python criaremos Geradores de Nomes de Cachaceiros.
+
+"Pq cacetes está no plural?" - Está no plural porque eu irei demonstrar como resolver o mesmo problema usando mais de uma forma. Simples assim.
+
+No vídeo usarei if, listas, dicionários e funções. Até a função zip eu demonstro como usar
+
