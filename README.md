@@ -125,3 +125,11 @@ Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre operadores compara
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre tabela verdade dos operadores E, OU e NÃO. Sim, é OBRIGATÓRIO que vocês entendam esse conceito. Simples assim.
 
+### [Melhor Curso de Python (Aula 22) - Identificando Possíveis Problemas - Parte 1 - 09/06/2019 08:00](https://youtu.be/_Qf-IqaTWT4)
+
+Neste vídeo d'O Melhor Curso de Python eu começo falando sobre como identificar alguns problemas que podem ocorrer no programa gerador de nome de cachaceiros. Nesta primeira parte eu falo sobre a parte do IF e inicio a parte das listas.
+
+O objetivo do vídeo é você evitar dor de cabeça.
+
+
+
