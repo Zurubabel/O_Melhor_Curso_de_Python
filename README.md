@@ -121,7 +121,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu explico mais algumas coisas dos 
 
 Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre operadores comparativos, operadores lógicos e operadores de conjuntos. Lembrem-se: esses operadores retornam valores verdadeiros ou falsos.
 
-### [O Melhor Curso de Python (Aula 21) - Tabela Verdade dos Operadores E, Ou e NÃO](https://youtu.be/l7Ait1y7Mwk)
+### [O Melhor Curso de Python (Aula 21) - Tabela Verdade dos Operadores E, Ou e NÃO - 08/06/2019 20:00](https://youtu.be/l7Ait1y7Mwk)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre tabela verdade dos operadores E, OU e NÃO. Sim, é OBRIGATÓRIO que vocês entendam esse conceito. Simples assim.
 
