@@ -116,3 +116,7 @@ No vídeo usarei if, listas, dicionários e funções. Até a função zip eu de
 ### [O Melhor Curso de Python (Aula 19) - Dicionários - Parte 2 - 06/06/2019 20:00](https://youtu.be/czRe1H3VX34)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu explico mais algumas coisas dos dicionários. Explico sobre mais alguns possíveis construtores, como usar zip e enumerate e também falo das funções de retornar valores, chaves e tuplas de chaves-valores.
+
+### [O Melhor Curso de Python (Aula 20) - Operadores Comparativos Lógicos e Operadores de Conjuntos - 07/06/2019 20:00](https://youtu.be/vJ95na_JRmA)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre operadores comparativos, operadores lógicos e operadores de conjuntos. Lembrem-se: esses operadores retornam valores verdadeiros ou falsos.
