@@ -113,3 +113,6 @@ Nesta vídeo aula d'O Melhor Curso de Python criaremos Geradores de Nomes de Cac
 
 No vídeo usarei if, listas, dicionários e funções. Até a função zip eu demonstro como usar
 
+### [O Melhor Curso de Python (Aula 19) - Dicionários - Parte 2 - 06/06/2019 20:00](https://youtu.be/czRe1H3VX34)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico mais algumas coisas dos dicionários. Explico sobre mais alguns possíveis construtores, como usar zip e enumerate e também falo das funções de retornar valores, chaves e tuplas de chaves-valores.
