@@ -131,5 +131,9 @@ Neste vídeo d'O Melhor Curso de Python eu começo falando sobre como identifica
 
 O objetivo do vídeo é você evitar dor de cabeça.
 
+### [Melhor Curso de Python (Aula 23) - Identificando Possíveis Problemas - Parte 2 - 09/06/2019 20:00](https://youtu.be/sJa4WglOyKU)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu continuo identificando os possíveis erros do nosso sistema, agora entrando na parte das listas e dos dicionários.
+
 
 
