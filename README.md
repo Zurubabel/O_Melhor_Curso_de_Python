@@ -139,3 +139,8 @@ Nesta vídeo aula d'O Melhor Curso de Python eu continuo identificando os possí
 
 Nesta vídeo aula d'O Melhor Curso de Python eu começo a falar sobre as estruturas de repetição, começando pelo for.
 
+### [Melhor Curso de Python (Aula 25) - Explicando um pouco mais sobre For - 11/06/2019 20:00](https://youtu.be/PIC_urx3_vg)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico um pouco mais sobre o laço for. Eu sei que o conteúdo é difícil, por isso decidi fazer mais um vídeo. 
+
+Perdão para aqueles que queriam ver o conteúdo de iterators, mas eu precisava deixar mais um vídeo sobre o assunto.
