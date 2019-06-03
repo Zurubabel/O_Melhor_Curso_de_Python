@@ -135,5 +135,7 @@ O objetivo do vídeo é você evitar dor de cabeça.
 
 Nesta vídeo aula d'O Melhor Curso de Python eu continuo identificando os possíveis erros do nosso sistema, agora entrando na parte das listas e dos dicionários.
 
+### [Melhor Curso de Python (Aula 24) - Estruturas de Repetição - For - 10/06/2019 20:00](https://youtu.be/YUeiAhpPMjQ)
 
+Nesta vídeo aula d'O Melhor Curso de Python eu começo a falar sobre as estruturas de repetição, começando pelo for.
 
