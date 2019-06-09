@@ -144,3 +144,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu começo a falar sobre as estrutu
 Nesta vídeo aula d'O Melhor Curso de Python eu explico um pouco mais sobre o laço for. Eu sei que o conteúdo é difícil, por isso decidi fazer mais um vídeo. 
 
 Perdão para aqueles que queriam ver o conteúdo de iterators, mas eu precisava deixar mais um vídeo sobre o assunto.
+
+### [Melhor Curso de Python (Aula 26) - Diferença entre While e For - 12/06/2019 20:00](https://youtu.be/kMfOo2LRiVc)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre a diferença entre o While e o For. Sim, eu decidi já falar sobre o While e explicar a diferença de implementação no mesmo vídeo. Não quero encher linguiça.
