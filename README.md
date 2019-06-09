@@ -153,4 +153,8 @@ Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre a diferença entre
 
 Nesta vídeo aula do Melhor Curso de Python eu explico um pouco sobre como funcionam as cláusulas continue e break em laços.
 
+### [Melhor Curso de Python (Aula 28) - Escopos de Break e Continue em laços aninhados - 14/06/2019 20:00](https://youtu.be/T9auG_123EQ)
 
+Nesta vídeo aula do Melhor Curso de Python eu falo sobre escopos de break e continue em laços aninhados e como eles influenciam nas funções e na lógica que você tem que usar.
+
+Ah, e também deixo o resultado para vocês poderem resolver.
