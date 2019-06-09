@@ -158,3 +158,9 @@ Nesta vídeo aula do Melhor Curso de Python eu explico um pouco sobre como funci
 Nesta vídeo aula do Melhor Curso de Python eu falo sobre escopos de break e continue em laços aninhados e como eles influenciam nas funções e na lógica que você tem que usar.
 
 Ah, e também deixo o resultado para vocês poderem resolver.
+
+### [Melhor Curso de Python (Aula 29) - Resolução do Exercício da Aula 28 - 15/06/2019 20:00](https://youtu.be/fz9NSxJnHhs)
+
+Nesta vídeo aula do Melhor Curso de Python eu crio a resolução do exercício da aula 28 de uma forma, digamos, melhorada. Assistam e vejam.
+
+Não, safadinho. O arquivo da resolução ainda não está aqui. Vai ter que assistir o vídeo. Hahahahaha
