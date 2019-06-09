@@ -164,3 +164,7 @@ Ah, e também deixo o resultado para vocês poderem resolver.
 Nesta vídeo aula do Melhor Curso de Python eu crio a resolução do exercício da aula 28 de uma forma, digamos, melhorada. Assistam e vejam.
 
 Não, safadinho. O arquivo da resolução ainda não está aqui. Vai ter que assistir o vídeo. Hahahahaha
+
+### [Melhor Curso de Python (Aula 30) - Entendendo sobre Erros e Exceções no Python - 16/06/2019 20:00](https://youtu.be/sAoD-9XA_G0)
+
+Nesta vídeo aula do Melhor Curso de Python eu falo sobre erros e exceções no python. Explico também sobre o conceito de traceback, que é quando o python vai "jogando" as exceções para as instâncias superiores até um tratamento ou até que a exceção chegue na parte principal e pare a aplicação.
