@@ -148,3 +148,9 @@ Perdão para aqueles que queriam ver o conteúdo de iterators, mas eu precisava 
 ### [Melhor Curso de Python (Aula 26) - Diferença entre While e For - 12/06/2019 20:00](https://youtu.be/kMfOo2LRiVc)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre a diferença entre o While e o For. Sim, eu decidi já falar sobre o While e explicar a diferença de implementação no mesmo vídeo. Não quero encher linguiça.
+
+### [Melhor Curso de Python (Aula 27) - Cláusulas Break e Continue em laços de repetição - 13/06/2019 20:00](https://youtu.be/gafi3tn8anM)
+
+Nesta vídeo aula do Melhor Curso de Python eu explico um pouco sobre como funcionam as cláusulas continue e break em laços.
+
+
