@@ -168,3 +168,18 @@ Não, safadinho. O arquivo da resolução ainda não está aqui. Vai ter que ass
 ### [Melhor Curso de Python (Aula 30) - Entendendo sobre Erros e Exceções no Python - 16/06/2019 20:00](https://youtu.be/sAoD-9XA_G0)
 
 Nesta vídeo aula do Melhor Curso de Python eu falo sobre erros e exceções no python. Explico também sobre o conceito de traceback, que é quando o python vai "jogando" as exceções para as instâncias superiores até um tratamento ou até que a exceção chegue na parte principal e pare a aplicação.
+
+### [Melhor Curso de Python (Aula 31) - Explicando sobre diferentes bases de dados - 17/06/2019 08:00](https://youtu.be/l78fLlcxr6g)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a diferença entre bancos de dados e sobre o fato de que não é que você aprendendo uma ferramenta você poderá usar todas. Pode ser que ajude, mas existem sintaxes diferentes entre elas.
+
+### [Melhor Curso de Python (Aula 32) - Conectando Python no SQL Server](https://youtu.be/1H-xFKpHet4)
+
+Nesta vídeo aula d'O Melhor Curso de Python nós configuraremos o ambiente para conectarmos no SQL Server.
+
+Links
+[https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017](https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017)
+
+[https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki]
+
+[https://anaconda.org/anaconda/pyodbc](https://anaconda.org/anaconda/pyodbc)
