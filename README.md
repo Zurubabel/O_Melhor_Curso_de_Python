@@ -180,6 +180,6 @@ Nesta vídeo aula d'O Melhor Curso de Python nós configuraremos o ambiente para
 Links
 [https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017](https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017)
 
-[https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki]
+[https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki)
 
 [https://anaconda.org/anaconda/pyodbc](https://anaconda.org/anaconda/pyodbc)
