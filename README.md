@@ -183,3 +183,11 @@ Links
 [https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki)
 
 [https://anaconda.org/anaconda/pyodbc](https://anaconda.org/anaconda/pyodbc)
+
+### [Melhor Curso de Python (Aula 33) - CRUD em Python - 19/06/2019 20:00](https://www.youtube.com/watch?v=_iwIOmRcBgc)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro as quatro operações do CRUD (inserir, selecionar, alterar e deletar). Também falo sobre algumas coisas que podem ocorrer durante o processo de alteração de dados no banco de dados.
+
+### [Melhor Curso de Python (Aula 34) - Classes, Objetos e Herança (Exemplo dos Cachaceiros) - 20/06/2019 20:00](https://youtu.be/GoQjKFxZuQ0)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu tento resumir três conceitos: Classes, Objetos e Heranças.
