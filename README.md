@@ -191,3 +191,9 @@ Nesta vídeo aula d'O Melhor Curso de Python eu demonstro as quatro operações 
 ### [Melhor Curso de Python (Aula 34) - Classes, Objetos e Herança (Exemplo dos Cachaceiros) - 20/06/2019 20:00](https://youtu.be/GoQjKFxZuQ0)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu tento resumir três conceitos: Classes, Objetos e Heranças.
+
+### [Melhor Curso de Python (Aula 35) - Exemplo de Classes Objetos e Herança - 21/06/2019 20:00](https://youtu.be/fgBnk8dyaBs)
+
+Nesta vídeo aula do Melhor Curso de Python eu demonstro o exemplo do vídeo anterior criando classes, objetos e demonstrando alguns exemplos de herança.
+
+Sei que o vídeo ficou grande, mas como é um vídeo por dia, tá de bom tamanho :P
