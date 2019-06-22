@@ -23,16 +23,3 @@ tiozao.apelido = "Josielson"
 
 cs.reclamar()
 tiozao.falar_mulher()
-
-"""cv = Cachaceiro()
-cv.apelido = "Chico Virilha"
-cv.pedir_cachaca()"""
-
-
-"""cv = Cachaceiro()
-cv.apelido = "Chico Virilha"
-print(cv.apelido)
-ct = Cachaceiro()
-ct.apelido = "Chico Tuíta"
-print(ct.apelido)
-print(cv.apelido) """

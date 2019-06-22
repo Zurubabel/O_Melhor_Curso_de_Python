@@ -197,3 +197,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu tento resumir três conceitos: C
 Nesta vídeo aula do Melhor Curso de Python eu demonstro o exemplo do vídeo anterior criando classes, objetos e demonstrando alguns exemplos de herança.
 
 Sei que o vídeo ficou grande, mas como é um vídeo por dia, tá de bom tamanho :P
+
+### [Melhor Curso de Python (Aula 36) - Módulos, Pacotes e Importações - 21/06/2019 08:00](https://www.youtube.com/watch?v=aTdAat6Iy9A)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu faço a refatoração das nossas classes de Cachaceiros e demonstro um pouco sobre o que são módulos, pacotes e importações.
