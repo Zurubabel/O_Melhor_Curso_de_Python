@@ -1,0 +1,1 @@
+print("init do tipos cachaceiros")

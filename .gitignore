@@ -2,4 +2,7 @@
 venv/*
 */.cache/*
 */.ipynb_checkpoints/*
-*/resoluções/
+*/resoluï¿½ï¿½es/
+*/__pycache__/*
+**/__pycache__/
+**/**/__pycache__/

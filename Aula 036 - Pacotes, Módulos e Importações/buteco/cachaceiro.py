@@ -2,8 +2,6 @@
 # Refatorar as pastas
 # Tipos de importação
 
-from buteco.tipos_cachaceiros.corno_sofrencia import Corno_Sofrencia
-
 class Cachaceiro():
     nome = ""
     apelido = ""

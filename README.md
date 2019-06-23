@@ -201,3 +201,9 @@ Sei que o vídeo ficou grande, mas como é um vídeo por dia, tá de bom tamanho
 ### [Melhor Curso de Python (Aula 36) - Módulos, Pacotes e Importações - 21/06/2019 08:00](https://www.youtube.com/watch?v=aTdAat6Iy9A)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu faço a refatoração das nossas classes de Cachaceiros e demonstro um pouco sobre o que são módulos, pacotes e importações.
+
+### [Melhor Curso de Python (Aula 37) - Como o Python Importa os Pacotes 23/06/2019 08:00](https://youtu.be/Pf4AjKoAqNw)
+
+Nesta vídeo aula do Melhor Curso de Python eu reforço como o python importa e verifica onde estão os pacotes e módulos.
+
+Na boa? Esse foi o vídeo mais difícil de gravar até agora (só queria deixar isso ressaltado. Hahaha)
