@@ -215,3 +215,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu (tento) explico sobre alguns pon
 ### [Melhor Curso de Python (Aula 39) Heranças e Múltiplas Heranças - 25/06/2019 20:00](https://youtu.be/ZsFSdXsassk)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre Heranças, Múltiplas heranças e sobre os possíveis problemas de herdar de várias classes.
+
+### [Melhor Curso de Python (Aula 40) - Composição, Agregação e Duck Typing - 26/06/2019 20:00](https://youtu.be/felHgdCAMf4)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre composição, agregação e o duck typing (tipagem de pato), ou, no caso do vídeo, tipagem de cachaceiro: se tem apelido e pede cachaça, então é um cachaceiro.
