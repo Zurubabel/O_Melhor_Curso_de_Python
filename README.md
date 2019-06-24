@@ -211,3 +211,7 @@ Na boa? Esse foi o vídeo mais difícil de gravar até agora (só queria deixar 
 ### [Melhor Curso de Python (Aula 38) - Melhorando a Compreensão sobre Classes e Objetos 24/06/2019 20:00](https://youtu.be/0IUZGEiiHO4)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu (tento) explico sobre alguns pontos a considerar de quando você deve usar programação orientada à objeto, quando você deve criar uma classe e sobre o termo "bazuca de matar mosca", que nada mais é você tomar cuidado para não exagerar no código para coisas simples.
+
+### [Melhor Curso de Python (Aula 39) Heranças e Múltiplas Heranças - 25/06/2019 20:00](https://youtu.be/ZsFSdXsassk)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre Heranças, Múltiplas heranças e sobre os possíveis problemas de herdar de várias classes.
