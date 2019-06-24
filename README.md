@@ -207,3 +207,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu faço a refatoração das nossas
 Nesta vídeo aula do Melhor Curso de Python eu reforço como o python importa e verifica onde estão os pacotes e módulos.
 
 Na boa? Esse foi o vídeo mais difícil de gravar até agora (só queria deixar isso ressaltado. Hahaha)
+
+### [Melhor Curso de Python (Aula 38) - Melhorando a Compreensão sobre Classes e Objetos 24/06/2019 20:00](https://youtu.be/0IUZGEiiHO4)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu (tento) explico sobre alguns pontos a considerar de quando você deve usar programação orientada à objeto, quando você deve criar uma classe e sobre o termo "bazuca de matar mosca", que nada mais é você tomar cuidado para não exagerar no código para coisas simples.
