@@ -220,6 +220,10 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre Heranças, Múltiplas
 
 Nesta vídeo aula d'O Melhor Curso de Python eu explico sobre composição, agregação e o duck typing (tipagem de pato), ou, no caso do vídeo, tipagem de cachaceiro: se tem apelido e pede cachaça, então é um cachaceiro.
 
-### [Melhor Curso de Python (Aula 41) - Acesso aos métodos e atributos do Python](https://youtu.be/C4udxnCcws4)
+### [Melhor Curso de Python (Aula 41) - Acesso aos métodos e atributos do Python - 27/06/2019 20:00](https://youtu.be/C4udxnCcws4)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre como funcionam os modificadores de acesso e sobre o acesso aos métodos e atributos públicos em Python (resumindo: é tudo público no Python).
+
+### [Melhor Curso de Python (Aula 42) - Interface Iterator e Iterable - 28/06/2019 20:46 (sim, me atrasei)](https://www.youtube.com/watch?v=qSCqAPo1Z7Q)
+
+Nesta vídeo aula d'O Melhor Curso de Python, além de eu estar full puto 2000 por eu estar tentando gravar esse vídeo a mais de uma hora e TUDO dar errado, eu falo sobre as interfaces Iterator e Iterable.
