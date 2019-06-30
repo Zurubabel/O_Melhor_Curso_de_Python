@@ -238,3 +238,7 @@ https://www.kickante.com.br/campanhas/desafio-mundial-corrida-drones-autonomos
 ### [Melhor Curso de Python (Aula 44) - Funções Generators - 30/06/2019 08:00](https://youtu.be/gVI8UwLj7Uc)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre as funções generators, que são funções que retornam um valor de cada vez e mantêm o seu estado ainda no escopo da sua função.
+
+### [Melhor Curso de Python (Aula 45) - Um pouco mais sobre Generators (Parte 1) - 01/07/2019 08:00](https://youtu.be/IRmmuDt7tK0)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo um pouco um pouco mais sobre genetators: seu funcionamento interno, falo sobre yield e return e exibo alguns exemplos simples.
