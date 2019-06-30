@@ -227,3 +227,14 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre como funcionam os mod
 ### [Melhor Curso de Python (Aula 42) - Interface Iterator e Iterable - 28/06/2019 20:46 (sim, me atrasei)](https://www.youtube.com/watch?v=qSCqAPo1Z7Q)
 
 Nesta vídeo aula d'O Melhor Curso de Python, além de eu estar full puto 2000 por eu estar tentando gravar esse vídeo a mais de uma hora e TUDO dar errado, eu falo sobre as interfaces Iterator e Iterable.
+
+### [Melhor Curso de Python (Aula 43) - List Comprehension - 29/06/2019 08:00](https://www.youtube.com/watch?v=qSCqAPo1Z7Q)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre List Comprehensions e como usá-los.
+
+Ajude o pessoal da UFMG a ganhar o campeonato
+https://www.kickante.com.br/campanhas/desafio-mundial-corrida-drones-autonomos
+
+### [Melhor Curso de Python (Aula 44) - Funções Generators - 30/06/2019 08:00](https://youtu.be/gVI8UwLj7Uc)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre as funções generators, que são funções que retornam um valor de cada vez e mantêm o seu estado ainda no escopo da sua função.
