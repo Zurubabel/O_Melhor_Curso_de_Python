@@ -242,3 +242,7 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre as funções generato
 ### [Melhor Curso de Python (Aula 45) - Um pouco mais sobre Generators (Parte 1) - 01/07/2019 08:00](https://youtu.be/IRmmuDt7tK0)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo um pouco um pouco mais sobre genetators: seu funcionamento interno, falo sobre yield e return e exibo alguns exemplos simples.
+
+### [Melhor Curso de Python (Aula 46) - Um pouco mais sobre Generators (Parte 2) - 02/07/2019 08:00](https://youtu.be/-4EVTLNu924)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre generator expressions e yield from.
