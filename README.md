@@ -163,9 +163,36 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre parâmetros de funç�
 
 Nesta vídeo aula d'O Melhor Curso de Python, ainda no assunto de parâmetros de funções, eu falo sobre os parâmetros de posição variável, também conhecidos por *args
 
+### [Melhor Curso de Python (Aula 4.6) - Parâmetros de Funções - Parte 3 - 13/08/2020 15:00](https://youtu.be/Y_D6P1gbeCY)
+
+
+### [Melhor Curso de Python (Aula 4.7) - Parâmetros de Funções - Parte 4 - 14/08/2020 15:00](https://youtu.be/7SZG0z30Yss)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a ordem de declaração dos parâmetros na hora de você criar suas funções.
+
+### [Melhor Curso de Python (Aula 4.8) - Parâmetros de Funções - Parte 5 - 17/08/2020 15:00](https://youtu.be/lY7aH3jVshM)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre o que ocorre quando você utiliza sequências mutáveis como valores padrão nos parâmetros das suas funções e quais os perigos disto.
+
+### [O Melhor Curso de Python (Aula 4.9) - Atributos das Funções - 18/08/2020 15:00](https://youtu.be/6zab8k4UJ4E)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre alguns atributos das funções e porquê é importante saber que uma função é um objeto.
+
 ### [Melhor Curso de Python (Aula 5.1) - Entendendo sobre Erros e Exceções no Python - 16/06/2019 20:00](https://youtu.be/sAoD-9XA_G0)
 
 Nesta vídeo aula do Melhor Curso de Python eu falo sobre erros e exceções no python. Explico também sobre o conceito de traceback, que é quando o python vai "jogando" as exceções para as instâncias superiores até um tratamento ou até que a exceção chegue na parte principal e pare a aplicação.
+
+### [Melhor Curso de Python (Aula 5.2) - Tratando Exceções - 19/08/2020 15:00](https://youtu.be/CJFn9EKUfGQ)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre como tratar erros de execução usando as funções try e except no Python
+
+### [Melhor Curso de Python (Aula 5.3) - try, except, else e finally - 20/08/2020 15:00](https://youtu.be/uxYfWjBeAZ8)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre os comandos try, except, else e finally e sua ordem de execução.
+
+### [Melhor Curso de Python (Aula 5.4) - Hierarquia das Exceções - 21/08/2020 15:00](https://youtu.be/51PZdcIO3fI)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a hierarquia das exceções e como usá-las para gerenciar os possíveis erros de aplicação.
 
 ### [Melhor Curso de Python (Aula 6.1) - List Comprehension - 29/06/2019 08:00](https://www.youtube.com/watch?v=qSCqAPo1Z7Q)
 
