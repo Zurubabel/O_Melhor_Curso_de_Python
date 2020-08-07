@@ -151,6 +151,18 @@ Já que eu iria falar sobre escopos do if e afins, vou explicar o principal, que
 
 Nesta vídeo aula d'O Melhor Curso de Python eu continuo falando sobre funções em python. Nesta eu explico um pouco sobre escopo das variáveis nas funções.
 
+### [Melhor Curso de Python (Aula 4.3) - Funções em Python - Funções Anônimas - 10/08/2020 15:00](https://youtu.be/hX8cLIvHN4E)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre as funções anônimas, mais conhecidas como funções lambda.
+
+### [Melhor Curso de Python (Aula 4.4) - Parâmetros de Funções - Parte 1 - 11/08/2020 15:00](https://youtu.be/6bL05zibFU8)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre parâmetros de funções. Para ser mais exato eu falo sobre parâmetros posicionais, parâmetros facultativos e parâmetros de palavras-chave.
+
+### [Melhor Curso de Python (Aula 4.5) - Parâmetros de Funções -  Parte 2 - 12/08/2020 15:00](https://youtu.be/lrtU54_MMnk)
+
+Nesta vídeo aula d'O Melhor Curso de Python, ainda no assunto de parâmetros de funções, eu falo sobre os parâmetros de posição variável, também conhecidos por *args
+
 ### [Melhor Curso de Python (Aula 5.1) - Entendendo sobre Erros e Exceções no Python - 16/06/2019 20:00](https://youtu.be/sAoD-9XA_G0)
 
 Nesta vídeo aula do Melhor Curso de Python eu falo sobre erros e exceções no python. Explico também sobre o conceito de traceback, que é quando o python vai "jogando" as exceções para as instâncias superiores até um tratamento ou até que a exceção chegue na parte principal e pare a aplicação.
