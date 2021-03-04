@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "E:\\Program Files\\Python\\python.exe"
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.testing.pytestArgs": [
+        "Parte 10 - TDD"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }

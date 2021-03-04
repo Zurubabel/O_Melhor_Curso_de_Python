@@ -213,6 +213,87 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo um pouco um pouco mais sobr
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre generator expressions e yield from.
 
+### [Melhor Curso de Python (Aula 8.1) - Explicando sobre diferentes bases de dados - 17/06/2019 20:00](https://youtu.be/l78fLlcxr6g)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a diferença entre bancos de dados e sobre o fato de que não é que você aprendendo uma ferramenta você poderá usar todas. Pode ser que ajude, mas existem sintaxes diferentes entre elas.
+
+### [Melhor Curso de Python (Aula 8.2) - Conectando Python no SQL Server - 18/06/2019 20:00](https://youtu.be/1H-xFKpHet4)
+
+Nesta vídeo aula d'O Melhor Curso de Python nós configuraremos o ambiente para conectarmos no SQL Server.
+
+Links
+[https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017](https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017)
+
+[https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki)
+
+[https://anaconda.org/anaconda/pyodbc](https://anaconda.org/anaconda/pyodbc)
+
+### [Melhor Curso de Python (Aula 8.3) - CRUD em Python - 19/06/2019 20:00](https://www.youtube.com/watch?v=_iwIOmRcBgc)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro as quatro operações do CRUD (inserir, selecionar, alterar e deletar). Também falo sobre algumas coisas que podem ocorrer durante o processo de alteração de dados no banco de dados.
+
+### [Melhor Curso de Python (Aula 9.1) - Abrindo arquivos de texto no Python - 24/08/2020 15:00](https://youtu.be/1qyEKMhnznw)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como abrir um arquivo de texto no Python e como achar a pasta de tal arquivo.
+
+### [Melhor Curso de Python (Aula 9.2) - Tratamento de erro na abertura de arquivos - 25/08/2020 15:00](https://youtu.be/AyA51PwWTls)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como é o tratamento de erros e o context manager da abertura de arquivos no Python
+
+### [Melhor Curso de Python (Aula 10.1 - TDD) - Introdução da primeira parte do TDD - 31/08/2020 08:00](https://youtu.be/Sk8amR6wrXc)
+
+Olah, queridos e queridas. Vamos começar uma nova jornada, agora falando sobre TDD - Test-Driven Development (Desenvolvimento orientado a testes).
+
+### [Melhor Curso de Python (Aula 10.1.1 - TDD) - Um pouco sobre o fluxo TDD - 01/09/2020 08:00](https://youtu.be/iQZbPH2y91E)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo um pouco sobre o fluxo TDD e sobre as vantagens de desvantagens de programar dessa forma.
+
+### [Melhor Curso de Python (Aula 10.1.2 - TDD) - Configurando nosso ambiente virtual - 02/09/2020 08:00](https://youtu.be/_ttQUFefSNY)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu ensino como configurar um novo ambiente virtual usando o venv e instalo o pytest e o pylint
+
+### [Melhor Curso de Python (Aula 10.1.3 - TDD) - Criando o primeiro teste - 03/09/2020 08:00](https://youtu.be/ld3REgkWEmU)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu ensino como criar o primeiro teste utilizando o TDD
+
+### [Melhor Curso de Python (Aula 10.1.4 - TDD) - Mais algumas considerações sobre o TDD - 07/09/2020 08:00](https://youtu.be/1r0w5KBLa58)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu faço mais algumas considerações sobre o TDD e mais algumas dicas sobre testes e afins.
+
+### [Melhor Curso de Python (Aula 10.1.5 - TDD) - Teste em arquivos externos - 08/09/2020 08:00](https://youtu.be/KTAiJGbmakg)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu demonstro como você realiza testes em métodos de outros arquivos e já deixo pronto para as próximas aulas a parte de fixtures e setups.
+
+### [Melhor Curso de Python (Aula 10.1.6 - TDD) - Setup e teardown de funções e módulos - 09/09/2020 08:00](https://youtu.be/wxOBg5u6HLw)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu continuo com algumas funções de TDD, falando sobre setup e teardown de funções e módulos à estilo XUnity.
+
+### [Melhor Curso de Python (Aula 10.1.7 - TDD) - Setup e teardown de classes e métodos - 10/09/2020 08:00](https://youtu.be/9-kunjBREA0)
+
+Nesta vídeo aula d'O Melhor Curso de Python  eu explico sobre o setup e o teardown de classes e métodos à estilo XUnity.
+
+### [O Melhor Curso de Python (Projeto 1.1) - Geradores de Nomes de Cachaceiro - 07/06/2019 20:00](https://youtu.be/skRmyRwqfWg)
+
+Nesta vídeo aula d'O Melhor Curso de Python criaremos Geradores de Nomes de Cachaceiros.
+
+"Pq cacetes está no plural?" - Está no plural porque eu irei demonstrar como resolver o mesmo problema usando mais de uma forma. Simples assim.
+
+No vídeo usarei if, listas, dicionários e funções. Até a função zip eu demonstro como usar
+
+### [Melhor Curso de Python (Projeto 1.2) - Identificando Possíveis Problemas - Parte 1 - 09/06/2019 08:00](https://youtu.be/_Qf-IqaTWT4)
+
+Neste vídeo d'O Melhor Curso de Python eu começo falando sobre como identificar alguns problemas que podem ocorrer no programa gerador de nome de cachaceiros. Nesta primeira parte eu falo sobre a parte do IF e inicio a parte das listas.
+
+O objetivo do vídeo é você evitar dor de cabeça.
+
+### [Melhor Curso de Python (Projeto 1.3) - Identificando Possíveis Problemas - Parte 2 - 09/06/2019 20:00](https://youtu.be/sJa4WglOyKU)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu continuo identificando os possíveis erros do nosso sistema, agora entrando na parte das listas e dos dicionários.
+
+# VÍDEOS DE 2019
+
+Vídeos que saíram da playlist original, mas continuam no canal
+
 ### [Melhor Curso de Python (Aula 7.1) - Classes, Objetos e Herança (Exemplo dos Cachaceiros) - 20/06/2019 20:00](https://youtu.be/GoQjKFxZuQ0)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu tento resumir três conceitos: Classes, Objetos e Heranças.
@@ -252,40 +333,3 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre como funcionam os mod
 ### [Melhor Curso de Python (Aula 7.9) - Interface Iterator e Iterable - 28/06/2019 20:46 (sim, me atrasei)](https://www.youtube.com/watch?v=qSCqAPo1Z7Q)
 
 Nesta vídeo aula d'O Melhor Curso de Python, além de eu estar full puto 2000 por eu estar tentando gravar esse vídeo a mais de uma hora e TUDO dar errado, eu falo sobre as interfaces Iterator e Iterable.
-
-### [Melhor Curso de Python (Aula 8.1) - Explicando sobre diferentes bases de dados - 17/06/2019 20:00](https://youtu.be/l78fLlcxr6g)
-
-Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a diferença entre bancos de dados e sobre o fato de que não é que você aprendendo uma ferramenta você poderá usar todas. Pode ser que ajude, mas existem sintaxes diferentes entre elas.
-
-### [Melhor Curso de Python (Aula 8.2) - Conectando Python no SQL Server - 18/06/2019 20:00](https://youtu.be/1H-xFKpHet4)
-
-Nesta vídeo aula d'O Melhor Curso de Python nós configuraremos o ambiente para conectarmos no SQL Server.
-
-Links
-[https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017](https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017)
-
-[https://github.com/mkleehammer/pyodbc/wiki](https://github.com/mkleehammer/pyodbc/wiki)
-
-[https://anaconda.org/anaconda/pyodbc](https://anaconda.org/anaconda/pyodbc)
-
-### [Melhor Curso de Python (Aula 8.3) - CRUD em Python - 19/06/2019 20:00](https://www.youtube.com/watch?v=_iwIOmRcBgc)
-
-Nesta vídeo aula d'O Melhor Curso de Python eu demonstro as quatro operações do CRUD (inserir, selecionar, alterar e deletar). Também falo sobre algumas coisas que podem ocorrer durante o processo de alteração de dados no banco de dados.
-
-### [O Melhor Curso de Python (Projeto 1.1) - Geradores de Nomes de Cachaceiro - 05/06/2019 20:00](https://youtu.be/skRmyRwqfWg)
-
-Nesta vídeo aula d'O Melhor Curso de Python criaremos Geradores de Nomes de Cachaceiros.
-
-"Pq cacetes está no plural?" - Está no plural porque eu irei demonstrar como resolver o mesmo problema usando mais de uma forma. Simples assim.
-
-No vídeo usarei if, listas, dicionários e funções. Até a função zip eu demonstro como usar
-
-### [Melhor Curso de Python (Projeto 1.2) - Identificando Possíveis Problemas - Parte 1 - 09/06/2019 08:00](https://youtu.be/_Qf-IqaTWT4)
-
-Neste vídeo d'O Melhor Curso de Python eu começo falando sobre como identificar alguns problemas que podem ocorrer no programa gerador de nome de cachaceiros. Nesta primeira parte eu falo sobre a parte do IF e inicio a parte das listas.
-
-O objetivo do vídeo é você evitar dor de cabeça.
-
-### [Melhor Curso de Python (Projeto 1.3) - Identificando Possíveis Problemas - Parte 2 - 09/06/2019 20:00](https://youtu.be/sJa4WglOyKU)
-
-Nesta vídeo aula d'O Melhor Curso de Python eu continuo identificando os possíveis erros do nosso sistema, agora entrando na parte das listas e dos dicionários.
