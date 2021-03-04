@@ -217,6 +217,34 @@ Nesta vídeo aula d'O Melhor Curso de Python eu falo um pouco um pouco mais sobr
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre generator expressions e yield from.
 
+### [Melhor Curso de Python (Parte 7) - Introdução da parte sobre POO](https://youtu.be/jDEwov5v-MY)
+
+Nesta vídeo aula eu faço a introdução a parte 7 (programação orientada a objeto) no Melhor Curso de Python
+
+### [Melhor Curso de Python (Aula 7.1.1) - Introdução a termologias do POO](https://youtu.be/nJ7E1Z5Ys8w)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre algumas termologias de programação orientado a objeto.
+
+### Melhor Curso de Python (Aula 7.1.2) - Atributos da uma classe - POO](https://youtu.be/Ss23ibYekt8)
+
+Nesta vídeo aula d'O Melhor Curso de Python, programação orientada a objeto, eu explico o que é um atributo em uma classe.
+
+### [Melhor Curso de Python (Aula 7.1.3) - Métodos da classe](https://youtu.be/3-E__8Dr7UI)
+
+Nesta vídeo aula d'O Melhor Curso de Python continuamos falando sobre classes, agora falando sobre métodos de uma classe.
+
+### [Melhor Curso de Python (Aula 7.1.4) - Heranças da classe (POO)](https://youtu.be/FL2pNHpNcKs)
+
+Nesta vídeo aula d'O Melhor Curso de Python continuamos falando sobre classes de python, agora falando sobre heranças da classe
+
+### [Melhor Curso de Python (Aula 7.1.5) - Instanciação da classe](https://youtu.be/JJWeK5_-P-Q)
+
+Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre instanciação de classes, ou seja, objetos.
+
+### [Melhor Curso de Python (Aula 7.1.6) - Tudo no Python é um objeto](https://youtu.be/CzG_vYq2c6s)
+
+À grosso modo, tudo no Python é um objeto.
+
 ### [Melhor Curso de Python (Aula 8.1) - Explicando sobre diferentes bases de dados - 17/06/2019 20:00](https://youtu.be/l78fLlcxr6g)
 
 Nesta vídeo aula d'O Melhor Curso de Python eu falo sobre a diferença entre bancos de dados e sobre o fato de que não é que você aprendendo uma ferramenta você poderá usar todas. Pode ser que ajude, mas existem sintaxes diferentes entre elas.
