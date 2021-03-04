@@ -4,6 +4,10 @@ Olar, galerinha! Começa aqui mais uma saga. Vou atualizando conforme os vídeos
 
 Aqui vocês verão os arquivos das aulas e as datas de quando os videos serão lançados.
 
+## UPDATE (04/03/2021 - 11:37)
+
+Amores, eu vou refazer os vídeos da parte 7 - Programação Orientada a Objetos, pois estou reestudando Python, agora sei um pouco mais e perdi a inércia dos exemplos dos Cachaceiros.
+
 ## UPDATE (04/08/2020 - 23:29)
 
 Galera, eu renomeei os arquivos de acordo com a ordem do tema, pois retornarei com os vídeos em breve e quero que os temas estejam bem definidos.
